@@ -1,3 +1,7 @@
+# Author        : Ciaran O hOgain
+# Version       : v1.0.0
+# Description   : Take in a title and cost of 5 books. Calculate and print running cost of all books.
+
 book_title_list = []
 book_cost_list = []
 

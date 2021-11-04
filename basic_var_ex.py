@@ -1,3 +1,8 @@
+# Author        : Ciaran O hOgain
+# Version       : v1.0.0
+# Description   : Take in a basic input integer grade and print description of the grade
+
+
 grade = input("Enter a grade: ")
 grade = int(grade)
 

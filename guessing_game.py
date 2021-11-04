@@ -1,3 +1,8 @@
+# Author        : Ciaran O hOgain
+# Version       : v1.0.0
+# Description   : Keep guessing number match until it is found
+
+
 import random
 
 target_guess = random.randint(0, 10)

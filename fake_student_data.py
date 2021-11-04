@@ -1,3 +1,8 @@
+# Author        : Ciaran O hOgain
+# Version       : v1.0.0
+# Description   : Print module and grade details of student.
+
+
 student_numbers = ("L12345", "L54321")
 module_subjects = ("Neural Networks", "Data Structures")
 neural_net_grades = {student_numbers[0]: 40, student_numbers[1]: 70}
